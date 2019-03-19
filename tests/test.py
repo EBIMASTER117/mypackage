@@ -1,4 +1,5 @@
 from mypackage import myFunction
+import pytest
 
 def test_top_n():
     """
